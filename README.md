@@ -6,7 +6,7 @@ Back-end Software Engineer
 
 Welcome to my personal Github account!<br />
 I'm a BS Information Technology graduate and have been in the software engineering field for 4 years now.<br />
-At work, I'm collaborating with other software engineers by building back-end services and APIs in PHP.<br /> 
+At work, I'm collaborating with other software engineers to build back-end web services and APIs in PHP..<br /> 
 In my spare time after work, I'm learning new technologies by creating small applications.
 
 *   🌍  I'm based in Philippines
