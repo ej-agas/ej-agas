@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EJ Agas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=500&multiline=true&width=600&height=70&lines=fmt.Println(%22Hi!+I'm+EJ!%22);fmt.Println(%22Welcome+to+my+GitHub+profile!%22))](https://git.io/typing-svg)
 ===============================================================================================================================
 
 Back-end Software Engineer
